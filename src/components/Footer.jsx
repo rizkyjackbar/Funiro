@@ -7,7 +7,7 @@ const Footer = () => {
             <div className="container mx-auto my-10 px-4 md:px-0">
                 <div className="flex flex-col md:flex-row items-start md:items-start justify-between">
                     <div className="mb-4 md:mb-0">
-                        <h3 className="text-xl font-bold">Funiro</h3>
+                        <h3 className="text-xl font-bold">Furniro</h3>
                         <div className="my-4 text-gray-300">
                             <p>400 University Drive Suite 200 Coral </p>
                             <p>Gables,</p>
@@ -51,7 +51,7 @@ const Footer = () => {
                 </div>
                 <hr className="border-gray-200 my-4" />
                 <div className="text-start">
-                    <p>&copy; 2023 furino. All rights reserved</p>
+                    <p>&copy; 2023 furniro. All rights reserved</p>
                 </div>
             </div>
         </footer>
