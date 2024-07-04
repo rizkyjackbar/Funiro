@@ -31,13 +31,13 @@ function About() {
             <Navbar />
             <header className="relative bg-cover bg-center h-64 flex items-center justify-center" style={{ backgroundImage: `url(${headerImage})` }}>
                 <div className="absolute inset-0 bg-black opacity-50"></div>
-                <div className="relative z-10 text-center text-white">
+                <div className="relative z-10 text-center text-white p-4">
                     <img src={blogIcon} alt="Blog Icon" className="h-auto w-auto mb-1 mx-auto" />
                     <h1 className="text-4xl font-bold">About/Blog</h1>
                     <p className="mt-2">Home &gt; About/Blog</p>
                 </div>
             </header>
-            <div className="container mx-auto p-6 mt-24 flex">
+            <div className="container mx-auto p-6 mt-24 flex flex-col md:flex-row">
                 <div className="w-full md:w-2/3">
                     <div className="mb-8">
                         <img src={image1} alt="Image 1" className="w-full h-auto rounded-md" />
