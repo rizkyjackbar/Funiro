@@ -6,6 +6,8 @@ import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
 import { Link } from 'react-router-dom';
+import logo from '../img/Meubel House_Logos-05.png';
+import productImage from '../img/Asgaard sofa 5.png';
 
 const Navbar = () => {
     const [isCartOpen, setIsCartOpen] = useState(false);
@@ -56,7 +58,7 @@ const Navbar = () => {
             <nav className="bg-black-500 p-4">
                 <div className="container mx-auto flex justify-between items-center">
                     <div className="flex items-center">
-                        {/* <img src="src/img/Meubel House_Logos-05.png" alt="Logo" className="h-auto w-auto max-h-12 max-w-full mr-4" /> */}
+                        <img src={logo} alt="Logo" className="h-auto w-auto max-h-12 max-w-full mr-4" />
                         <span className="font-montserrat text-2xl font-bold leading-tight text-left">Furniro</span>
                     </div>
                     <div className="hidden md:flex space-x-8">
@@ -94,7 +96,7 @@ const Navbar = () => {
                     <div className="space-y-4 flex-1 overflow-auto">
                         {cartItems.map(item => (
                             <div key={item.id} className="flex items-center">
-                                <img src="https://via.placeholder.com/80" alt="Product" className="w-20 h-20 object-cover rounded-lg" />
+                                <img src={productImage} alt="Product" className="w-20 h-20 object-cover rounded-lg" />
                                 <div className="ml-4 flex-1">
                                     <h3 className="text-lg font-semibold">{item.name}</h3>
                                     <div className="flex items-center text-gray-500">
