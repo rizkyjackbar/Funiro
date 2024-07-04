@@ -33,8 +33,8 @@ function About() {
                 <div className="absolute inset-0 bg-black opacity-50"></div>
                 <div className="relative z-10 text-center text-white">
                     <img src={blogIcon} alt="Blog Icon" className="h-auto w-auto mb-1 mx-auto" />
-                    <h1 className="text-4xl font-bold">Blog</h1>
-                    <p className="mt-2">Home &gt; Blog</p>
+                    <h1 className="text-4xl font-bold">About/Blog</h1>
+                    <p className="mt-2">Home &gt; About/Blog</p>
                 </div>
             </header>
             <div className="container mx-auto p-6 mt-24 flex">

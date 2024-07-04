@@ -83,7 +83,7 @@ const Navbar = () => {
                     <div className="md:hidden flex flex-col space-y-2 mt-2">
                         <Link to="/" className="text-black text-lg">Home</Link>
                         <Link to="/shop" className="text-black text-lg">Shop</Link>
-                        <Link to="/about" className="text-black text-lg">About</Link>
+                        <Link to="/about" className="text-black text-lg">About/Blog</Link>
                         <Link to="/contact" className="text-black text-lg">Contact</Link>
                     </div>
                 )}
