@@ -58,8 +58,8 @@ const Navbar = () => {
             <nav className="bg-black-500 p-4">
                 <div className="container mx-auto flex justify-between items-center">
                     <div className="flex items-center">
-                        <img src={logo} alt="Logo" className="h-auto w-auto max-h-12 max-w-full mr-4" />
-                        <span className="font-montserrat text-2xl font-bold leading-tight text-left">Furniro</span>
+                        <img src={logo} alt="Logo" className="h-6 w-auto mr-4" />
+                        <span className="font-montserrat text-2xl font-bold leading-tight text-left ml-2">Furniro</span>
                     </div>
                     <div className="hidden md:flex space-x-8">
                         <Link to="/" className="text-black text-lg">Home</Link>
