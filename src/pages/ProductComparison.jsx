@@ -92,132 +92,132 @@ function ProductComparasion() {
                             <tr>
                                 <td className="pl-1 pr-80 py-4 border-r border-gray-300 text-sm text-gray-600 font-bold">General</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300"></td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300"></td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300"></td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Sales Package</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">1 sectional sofa</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">1 Three Seater, 2 Single Seater</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">1 Three Seater, 2 Single Seater</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Model Number</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">TFCBLIGRBL6SRHS</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">DTUBLIGRBL568</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">DTUBLIGRBL568</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Secondary Material</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Solid Wood</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Solid Wood</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">Solid Wood</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Configuration</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">L-shaped</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">L-shaped</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">L-shaped</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Upholstery Material</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Fabric + Cotton</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Fabric + Cotton</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">Fabric + Cotton</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Upholstery Color</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Bright Grey & Lion</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Bright Grey & Lion</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">Bright Grey & Lion</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600 font-bold">Product</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300"></td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300"></td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300"></td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Filling Material</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Foam</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Matte</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">Matte</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Finish Type</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Bright Grey & Lion</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Bright Grey & Lion</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">Bright Grey & Lion</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Adjustable Headrest</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">No</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Yes</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">Yes</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Maximum Load Capacity</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">280 KG</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">300 KG</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">300 KG</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Origin of Manufacture</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">India</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">India</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">India</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600 font-bold">Dimension</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300"></td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300"></td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300"></td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Width</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">265.32 cm</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">265.32 cm</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">265.32 cm</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Height</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">76 cm</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">76 cm</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">76 cm</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Depth</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">167.76 cm</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">167.76 cm</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">167.76 cm</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Weight</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">45 KG</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">65 KG</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">65 KG</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Seat Height</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">41.52 cm</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">41.52 cm</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">41.52 cm</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Leg Height</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">5.46 cm</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">5.46 cm</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">5.46 cm</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600 font-bold">Warranty</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300"></td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300"></td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300"></td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Warranty Summary</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">1 Year Manufacturing Warranty</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">1.2 Year Manufacturing Warranty</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">1.2 Year Manufacturing Warranty</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Warranty Service Type</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">For Warranty Claims or Any Product Related Issues Please Email at operations@trevifurniture.com</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">For Warranty Claims or Any Product Related Issues Please Email at support@xyz.com</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">For Warranty Claims or Any Product Related Issues Please Email at support@xyz.com</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Covered in Warranty</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Warranty Against Manufacturing Defect</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">Warranty of the product is limited to manufacturing defects only.</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">Warranty of the product is limited to manufacturing defects only.</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Not Covered in Warranty</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">The Warranty Does Not Cover Damages Due To Usage Of The Product Beyond Its Intended Use And Wear & Tear In The Natural Course Of Product Usage.</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">The Warranty Does Not Cover Damages Due To Usage Of The Product Beyond Its Intended Use And Wear & Tear In The Natural Course Of Product Usage.</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">The Warranty Does Not Cover Damages Due To Usage Of The Product Beyond Its Intended Use And Wear & Tear In The Natural Course Of Product Usage.</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">Domestic Warranty</td>
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">1 Year</td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300 text-sm text-gray-600">3 Months</td>
+                                <td className="pl-2 -ml-4 py-4 border-gray-300 text-sm text-gray-600">3 Months</td>
                             </tr>
                             <tr>
                                 <td className="pl-1 py-4 border-r border-gray-300 text-sm text-gray-600">
@@ -225,7 +225,7 @@ function ProductComparasion() {
                                 <td className="pl-2 -ml-4 py-4 border-r border-gray-300">
                                     <button className="mt-4 bg-[#B88E2F] text-white py-2 px-4 rounded-md">Add to Cart</button>
                                 </td>
-                                <td className="pl-2 -ml-4 py-4 border-r border-gray-300">
+                                <td className="pl-2 -ml-4 py-4 border-gray-300">
                                     <button className="mt-4 bg-[#B88E2F] text-white py-2 px-4 rounded-md">Add to Cart</button>
                                 </td>
                             </tr>
