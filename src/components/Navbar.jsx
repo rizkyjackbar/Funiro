@@ -83,7 +83,7 @@ const Navbar = () => {
                     <div className="md:hidden flex flex-col space-y-2 mt-2">
                         <Link to="/" className="text-black text-lg">Home</Link>
                         <Link to="/shop" className="text-black text-lg">Shop</Link>
-                        <Link to="/about" className="text-black text-lg">About/Blog</Link>
+                        <Link to="/about" className="text-black text-lg">About</Link>
                         <Link to="/contact" className="text-black text-lg">Contact</Link>
                     </div>
                 )}
@@ -117,9 +117,9 @@ const Navbar = () => {
                     </div>
                     <hr className="border-t border-[#D9D9D9] w-full" />
                     <div className="mt-4 flex justify-between space-x-2">
-                        <button className="w-1/3 px-4 py-2 bg-white text-black border border-black rounded-full">Cart</button>
-                        <button className="w-1/3 px-4 py-2 bg-white text-black border border-black rounded-full">Checkout</button>
-                        <button className="w-1/3 px-4 py-2 bg-white text-black border border-black rounded-full">Comparison</button>
+                        <Link to="/cart" className="w-1/3 px-4 py-2 bg-white text-black border border-black rounded-full text-center">Cart</Link>
+                        <Link to="/checkout" className="w-1/3 px-4 py-2 bg-white text-black border border-black rounded-full text-center">Checkout</Link>
+                        <Link to="/productcomparasion" className="w-1/3 px-4 py-2 bg-white text-black border border-black rounded-full text-center">Comparison</Link>
                     </div>
                 </div>
             </div>
