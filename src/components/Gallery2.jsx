@@ -12,8 +12,8 @@ import image9 from '../img/Rectangle 39.png';
 const Gallery2 = () => {
     return (
         <div className="mb-8 text-center" style={{ overflow: 'auto' }}>
-            <p className="text-lg text-gray-600 px-4">#FuniroFurniture</p>
-            <h2 className="text-3xl font-bold" style={{ marginBottom: '15px' }}>Share your setup with</h2>
+            <p className="text-lg text-gray-600 px-4">Share your setup with</p>
+            <h2 className="text-3xl font-bold" style={{ marginBottom: '15px' }}>#FurniroFurniture</h2>
             <div className="relative" style={{ height: '800px' }}>
                 <div className="absolute" style={{ width: '295px', height: '392px', top: '215px', left: '561px' }}>
                     <img src={image1} alt="Gallery Image Center" className="w-full h-full object-cover" />
